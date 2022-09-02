@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FranciscoXavvier
 - 👀 I’m interested in web developing and software production
-- 🌱 I’m currently learning html,css,js,c++,c,python,
+- 🌱 I’m currently learning html,css,js,c++,c,python,C#
 - 💞️ I’m looking to collaborate on basically everything.
 - 📫 How to reach me franciscoxavieram@gmail.com
 
